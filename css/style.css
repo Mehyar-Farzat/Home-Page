@@ -1,0 +1,27 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+.mynavbar{
+
+    background-color: #0E144A;
+    box-sizing: border-box;
+    
+   
+}
+
+.nav-link{
+    color: white;
+    font-size: 16px;
+    padding: 18px 0px;
+    font-weight: 700;
+}
+
+.navbar-brand{
+    color: white;
+    
+}
+
+.collapse ul{
+    text-align: right;
+}
