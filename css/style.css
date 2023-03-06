@@ -29,12 +29,19 @@
     font-size: 24px;
     font-weight: 500;
     padding: 10px 20px;
+    
 }
+
 
 .nav-link{
     color: #977F5D;
     font-family: 'Titillium Web', sans-serif;
     padding: 20px 40px;
+    transition: all .3s;
+}
+
+.nav-link:hover{
+    color: whitesmoke;
 }
 
 .navbar-brand{
